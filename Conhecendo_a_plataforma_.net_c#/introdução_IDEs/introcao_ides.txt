@@ -1,0 +1,2 @@
+Link para download .Net
+https://dotnet.microsoft.com/en-us/download
